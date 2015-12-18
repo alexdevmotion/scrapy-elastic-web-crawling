@@ -1,0 +1,1 @@
+# scrapy-elastic-web-crawling
